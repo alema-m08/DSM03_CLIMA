@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Desafio3DSM" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/purpura_neon</item>
+        <item name="colorPrimaryVariant">@color/negro_profundo</item>
+        <item name="colorOnPrimary">@color/blanco_puro</item>
+
+        <item name="colorSecondary">@color/cyan_brillante</item>
+        <item name="colorSecondaryVariant">@color/azul_electrico</item>
+        <item name="colorOnSecondary">@color/blanco_puro</item>
+
+        <item name="android:statusBarColor">@color/negro_profundo</item>
+        <item name="android:navigationBarColor">@color/negro_profundo</item>
+        <item name="android:windowBackground">@color/gris_carbon</item>
+
+        <item name="android:textColorPrimary">@color/blanco_puro</item>
+        <item name="android:textColorSecondary">@color/gris_claro</item>
+    </style>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Países y Clima</string>
+    <string name="titulo_regiones">Regiones del Mundo</string>
+    <string name="titulo_paises">Países</string>
+    <string name="cargando">Cargando...</string>
+    <string name="error_conexion">Error de conexión</string>
+    <string name="clima_actual">Clima Actual</string>
+    <string name="informacion_pais">Información del País</string>
+</resources>

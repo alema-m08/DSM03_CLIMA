@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores principales - Tema oscuro elegante -->
+    <color name="negro_profundo">#0F172A</color>
+    <color name="gris_carbon">#1E293B</color>
+    <color name="gris_pizarra">#334155</color>
+    <color name="gris_suave">#64748B</color>
+
+    <!-- Colores de acento - Gradiente moderno -->
+    <color name="purpura_neon">#8B5CF6</color>
+    <color name="azul_electrico">#3B82F6</color>
+    <color name="cyan_brillante">#06B6D4</color>
+    <color name="verde_menta">#10B981</color>
+
+    <!-- Colores de acento cálidos -->
+    <color name="rosa_vibrante">#EC4899</color>
+    <color name="naranja_energia">#F59E0B</color>
+    <color name="amarillo_sol">#FBBF24</color>
+
+    <!-- Colores neutros -->
+    <color name="blanco_puro">#FFFFFF</color>
+    <color name="blanco_humo">#F8FAFC</color>
+    <color name="gris_claro">#E2E8F0</color>
+
+    <!-- Estados -->
+    <color name="exito">#10B981</color>
+    <color name="error">#EF4444</color>
+    <color name="advertencia">#F59E0B</color>
+
+    <!-- Overlay -->
+    <color name="overlay_oscuro">#CC000000</color>
+    <color name="overlay_claro">#80FFFFFF</color>
+</resources>
